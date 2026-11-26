@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Switchboard Finance is a non‑bank finance broker that matches self‑employed Australian business owners with over 50 accredited non‑bank lenders. It offers vehicle, equipment, working‑capital, invoice, and property‑secured loans, as well as home‑loan options, by reviewing BAS statements, bank feeds, and accountant letters rather than traditional credit scores.
+Switchboard Finance is a non‑bank finance broker in Australia, offering specialist financing solutions for self‑employed individuals and business owners. The company provides asset finance, accommodation and going‑concern finance, and acts as a credit representative under Australian regulations. Founded by an industry veteran with experience on the lender side, Switchboard Finance aims to simplify access to finance outside traditional banking channels.
 
-**Areas:** Non‑Bank Lending · Business Loans · Equipment Finance · Invoice Finance · Property Finance · Self‑Employed · Broker
+**Areas:** Finance · Broker · Australia · Non-Bank · SME
 
 ## Switchboard Finance on APIs.io
 
@@ -74,14 +74,14 @@ Everything profiled for Switchboard Finance is published on APIs.io rather than 
 
 ### APIs (8)
 
-- [Switchboard Finance A2a API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-a2a-api/) — The A2a API from Switchboard Finance, for a2a.
-- [Switchboard Finance Documents API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-documents-api/) — The Documents API from Switchboard Finance, for documents.
-- [Switchboard Finance Eligibility API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-eligibility-api/) — The Eligibility API from Switchboard Finance, for eligibility.
-- [Switchboard Finance Enquiry API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-enquiry-api/) — The Enquiry API from Switchboard Finance, for enquiry.
-- [Switchboard Finance Health API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-health-api/) — The Health API from Switchboard Finance, for health.
-- [Switchboard Finance MCP API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-mcp-api/) — The Mcp API from Switchboard Finance, for mcp.
-- [Switchboard Finance Products API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-products-api/) — The Products API from Switchboard Finance, for products.
-- [Switchboard Finance Search API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-search-api/) — The Search API from Switchboard Finance, for search.
+- [Switchboard Finance A2a API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-a2a-api/) — The A2a API from Switchboard Finance — 1 operation(s) for a2a.
+- [Switchboard Finance Documents API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-documents-api/) — The Documents API from Switchboard Finance — 1 operation(s) for documents.
+- [Switchboard Finance Eligibility API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-eligibility-api/) — The Eligibility API from Switchboard Finance — 1 operation(s) for eligibility.
+- [Switchboard Finance Enquiry API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-enquiry-api/) — The Enquiry API from Switchboard Finance — 1 operation(s) for enquiry.
+- [Switchboard Finance Health API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-health-api/) — The Health API from Switchboard Finance — 1 operation(s) for health.
+- [Switchboard Finance MCP API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-mcp-api/) — The Mcp API from Switchboard Finance — 1 operation(s) for mcp.
+- [Switchboard Finance Products API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-products-api/) — The Products API from Switchboard Finance — 1 operation(s) for products.
+- [Switchboard Finance Search API](https://apis.io/apis/switchboardfinance-com-au/switchboardfinance-com-au-search-api/) — The Search API from Switchboard Finance — 1 operation(s) for search.
 
 ### Published properties
 
@@ -133,18 +133,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 43.6** — developing · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 42.6** — developing · rubric 0.27.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 85.7 |
-| Contract quality | 55.6 |
+| Discoverability | 66.7 |
+| Contract quality | 49.2 |
 | Contract governance | 79.1 |
-| Operational transparency | 9.5 |
-| Developer ergonomics | 16.7 |
-| Access clarity | 34.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 42.1 |
 
-**Agent readiness 49.9** — agent-native
+**Agent readiness 54.2** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -158,7 +158,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | partial |
 | Rate Limit Signal | verified |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
@@ -170,11 +170,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
-**Regulatory alignment 22.2** — Securities & Market Data
+**Regulatory alignment 18.9** — Banking & Open Finance
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/switchboardfinance-com-au/](https://apis.io/providers/switchboardfinance-com-au/).
 
